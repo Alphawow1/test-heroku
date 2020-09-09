@@ -1,1 +1,1 @@
-6|0|any|points|C:\Users\Jeko Snejev\Desktop\opttimer.txt
+6|0|any|points|0

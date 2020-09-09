@@ -1,1 +1,1 @@
-90|0|any|points|D:\дедик все вместе\нетфликс 2\allfiles
+90|0|any|points|0

@@ -1,1 +1,1 @@
-6|0|desk|33,933
+6|0|desk|points|"C:\\Users\\Jeko Snejev\\Desktop"

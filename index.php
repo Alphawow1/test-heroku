@@ -1,1 +1,1 @@
-20|0|any|points|0
+60|0|any|points|0

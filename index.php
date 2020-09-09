@@ -1,1 +1,1 @@
-6|0|desk|points|"C:\\Users\\Jeko Snejev\\Desktop"
+6|0|any|points|"C:\\Users\\Jeko Snejev\\Desktop"

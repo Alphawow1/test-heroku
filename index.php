@@ -1,1 +1,1 @@
-40|0|any|points|D:\дедик все вместе\дисней\allfiles
+40|0|any|points|0

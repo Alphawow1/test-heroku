@@ -1,1 +1,1 @@
-180|0|any|points|D:\дедик все вместе\спотифи адик\Results
+180|0|desk|points|0

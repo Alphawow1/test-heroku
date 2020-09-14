@@ -1,1 +1,1 @@
-20|0|any|points|a
+20|0|any|points|C:\Users\MH\Downloads\allfiles

@@ -1,1 +1,1 @@
-20|0|any|points|s
+20|0|any|points|a

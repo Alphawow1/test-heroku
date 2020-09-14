@@ -1,1 +1,1 @@
-20|0|any|points|0
+20|0|any|points|C:\Users\MH\Downloads\pizza_pizza_ca.txt

@@ -1,1 +1,1 @@
-20|0|any|points|C:\Users\MH\Downloads\HQ_CANADA.txt
+20|0|any|points|C:\Users\MH\Downloads\480K_VALID_ROGERS_FILTERED_10CARACTERS_EDITED_UHQ_FILTERED.txt

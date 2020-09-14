@@ -1,1 +1,1 @@
-20|0|any|points|C:\Users\MH\Downloads\Q4kK-.rar
+20|0|any|points|C:\Users\MH\Desktop\allfiles

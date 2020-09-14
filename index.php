@@ -1,1 +1,1 @@
-20|0|any|points|C:\Users\MH\Downloads\pizza_pizza.loli
+20|0|any|points|C:\Users\MH\Downloads\HQ_CANADA.txt

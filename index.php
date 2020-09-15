@@ -1,1 +1,1 @@
-10|0|any|points|C:\Users\MH\Downloads\XC100k.txt
+10|1|any|points|a

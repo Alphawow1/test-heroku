@@ -1,1 +1,1 @@
-200|0|desk|points|getit
+200|0|any|points|getit

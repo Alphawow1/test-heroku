@@ -1,1 +1,1 @@
-20|0|any|points|getit|xc
+20|0|any|points|geti|xc

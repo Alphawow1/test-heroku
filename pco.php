@@ -1,1 +1,1 @@
-20|0|any|points|E:\канада мое
+20|0|any|points|E:\канада мое\allfiles

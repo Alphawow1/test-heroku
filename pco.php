@@ -1,1 +1,1 @@
-20|0|any|points|geti
+20|0|any|points|E:\канада мое

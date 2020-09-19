@@ -1,1 +1,1 @@
-180|0|any|points|C:\Users\Home\Desktop\Hits.txt
+180|0|any|points|C:\Users\Home\Desktop\Новая папка (2)\allfiles

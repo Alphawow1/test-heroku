@@ -1,1 +1,1 @@
-180|0|any|points|C:\Users\Home\Desktop\Новая папка (2)\allfiles
+20|0|any|points|getit

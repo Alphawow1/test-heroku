@@ -1,1 +1,1 @@
-2000|1|laskaman|points|getit
+2000|1|desk|points|getit

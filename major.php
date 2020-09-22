@@ -1,1 +1,1 @@
-2000|0|any|points|getit
+2000|1|any|points|getit

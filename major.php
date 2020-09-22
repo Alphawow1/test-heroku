@@ -1,1 +1,1 @@
-2000|1|desk|points|getit
+2000|1|ds|points|getit

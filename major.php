@@ -1,1 +1,1 @@
-20|1|cot|points|getit
+2000|1|cot|points|getit

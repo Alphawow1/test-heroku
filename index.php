@@ -1,1 +1,1 @@
-20|1|laskaman|points|geti|killemu
+20|1|laskaman|points|geti|trjrtj
